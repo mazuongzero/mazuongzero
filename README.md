@@ -18,7 +18,7 @@
 <p align="center">I love gaming, reading books, and programming! Always excited to learn new things and improve my skills every day.</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT5LMqk7dO5fLFN1oI/giphy.gif" width="200" height="150" alt="Gaming GIF"/>
+  <img src="https://dtlive.s3.ap-south-1.amazonaws.com/16173/DT_G44_Video-Game-Animated-GIF-Icon-pack-2.gif" width="200" height="150" alt="Gaming GIF"/>
   <img src="https://media.giphy.com/media/j2BvcLtY9pF6U/giphy.gif" width="200" height="150" alt="Reading GIF"/>
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlq/giphy.gif" width="200" height="150" alt="Programming GIF"/>
 </div>
