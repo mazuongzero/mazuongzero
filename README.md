@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nameless Knight game**
  <div align="center">
-  <img src="https://media.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif" width="600" height="600"/>
 </div>
 
 
