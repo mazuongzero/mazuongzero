@@ -108,5 +108,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/Pxh.gif" width="300" height="150"/>
+  <img src="https://i.gifer.com/Pxh.gif" width="300" height="300"/>
 </div>
