@@ -108,5 +108,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/8Iv5lqKwKsZ0rM32UE/giphy.gif" width="300" height="150"/>
+  <img src="https://i.gifer.com/Pxh.gif" width="300" height="150"/>
 </div>
