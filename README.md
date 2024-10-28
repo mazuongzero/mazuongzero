@@ -7,7 +7,8 @@
 </div>
 
 
-- 🌱 I’m currently learning **.NET framework, Unity**
+- 🌱 I’m currently learning **.NET framework** <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="25" height="25"/> , **Unity** <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25" height="25"/>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/mazuongzero](https://github.com/mazuongzero)
 
