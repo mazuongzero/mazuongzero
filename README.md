@@ -2,7 +2,10 @@
 <h3 align="center">College student with a dream of becoming a professional game programmer in the future</h3>
 
 - 🔭 I’m currently working on **Nameless Knight game**
-  <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/t4cCKrEkociVYDJrrr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/t4cCKrEkociVYDJrrr">via GIPHY</a></p>
+ <div align="center">
+  <img src="https://media.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif" width="300" height="300"/>
+</div>
+
 
 - 🌱 I’m currently learning **.NET framework, Unity**
 
