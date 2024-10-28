@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Phan Anh Đô</h1>
 <h3 align="center">College student with a dream of becoming a professional game programmer in the future</h3>
 
-- 🔭 I’m currently working on **Nameless Knight game**
+- 🔭 I’m currently working on **Nameless Knight game**  
  <div align="center">
   <img src="https://media.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif" width="600" height="600"/>
 </div>
 
-
 - 🌱 I’m currently learning **.NET framework** <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="25" height="25"/> , **Unity** <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25" height="25"/>
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/mazuongzero](https://github.com/mazuongzero)
 
@@ -16,19 +14,23 @@
 
 ---
 
+<h3 align="center">About Me</h3>
+<p align="center">I love gaming, reading books, and programming! Always excited to learn new things and improve my skills every day.</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/xT5LMqk7dO5fLFN1oI/giphy.gif" width="200" height="150" alt="Gaming GIF"/>
+  <img src="https://media.giphy.com/media/j2BvcLtY9pF6U/giphy.gif" width="200" height="150" alt="Reading GIF"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlq/giphy.gif" width="200" height="150" alt="Programming GIF"/>
 </div>
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://fb.com/mazuongzero" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazuongzero" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/anh-đô-phan-556137265" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-do-phan" height="30" width="40" />
-  </a>
+  <a href="https://fb.com/mazuongzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazuongzero" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/anh-đô-phan-556137265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-đô-phan" height="30" width="40" /></a>
 </p>
+
 
 
 ---
